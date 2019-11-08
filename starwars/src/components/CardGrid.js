@@ -31,7 +31,10 @@ useEffect(() => {
                     mass={char.mass}
                     height={char.height}
                     hair_color={char.hair_color}
+                    eye_color={char.eye_color}
+                    skin_color={char.skin_color}
                     homeworld={char.homeworld}
+                
                     />
                     )}
                 )}
